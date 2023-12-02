@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Setting up a Bitbucket pipeline to run a script on a Virtual Private
   Server (VPS)
-date: 2023-12-02T11:49:42.245Z
+date: 2023-12-02T11:52:08.494Z
 description: Setting up a Bitbucket pipeline to run a script on a Virtual
   Private Server (VPS) when a pull request (PR) is merged into a branch involves
   several steps.
